@@ -1,0 +1,25 @@
+"drmLicense": "91a56f5aab4c56cb88fbf787187acafe:0000816079a5ec4f093e3274bda26f2a,a2ff372a21b35653a88592abfec3f9a7:d5bc25088d1fda12849aad90716de750,7ecfd12eb26258c381afadac16ac8fc9:b4f351533d633abf76cda47fe75d579b"
+  },
+  {
+    "name": "Arena Sports 10",
+    "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd",
+    "logo": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vtpl5xs0zwnsqokp8ypz",
+    "origin": "https://bpcdnmanprod.nexttv.ht.hr",
+    "referrer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "ee6860a6bf7a5f6c89bcf1794d16e25f:b573f718f1551d2cf2a335ca778f5604,03ed75ef7e4c56cb8f81cc17952fc554:2be3b8e9f4756601e5b263beb14c5908,ea5736047df25edbb48bd055d48eb3dd:8b40d3a415517224245a79e907cb8ef0"
+  },
+  {
+    "name": "Laliga",
+    "link": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+    "logo": "",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+  }
+]
